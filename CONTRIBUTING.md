@@ -7,7 +7,7 @@ Thank you for considering contributing to Hello Rust! We welcome contributions f
 1. **Fork the repository**: Click the "Fork" button at the top right of the repository page.
 2. **Clone your fork**:
    ```sh
-   git clone https://github.com/your-username/hello-rust.git
+   git clone https://github.com/Skipper-116/actix-tut.git
    ```
 3. **Create a branch**:
    ```sh

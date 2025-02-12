@@ -19,8 +19,8 @@ Follow these steps to set up the project:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/hello-rust.git
-   cd hello-rust
+   git clone https://github.com/Skipper-116/actix-tut.git
+   cd actix-tut
    ```
 
 2. Build the project:
