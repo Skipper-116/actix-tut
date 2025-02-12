@@ -42,3 +42,12 @@ Follow these steps to set up the project:
 I'm playing with Actix because it is the top-rated web framework there is.
 
 Feel free to explore the code and modify it to suit your needs. Happy coding!
+
+## Endpoints
+
+### Endpoints
+
+- `GET /api/v1/hello`: Returns a JSON response with a greeting message.
+- `POST /api/v1/hello`: Accepts a JSON payload and returns json response back.
+- `PUT /api/v1/hello/{id}`: Accepts a JSON payload and returns json response back.
+- `GET /api/v1/hey/{name}`: Returns a JSON response with a different greeting message.
